@@ -1,0 +1,6 @@
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\bin\Debug\middle_value.exe.config
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\obj\Debug\middle_value.csprojResolveAssemblyReference.cache
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\bin\Debug\middle_value.exe
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\bin\Debug\middle_value.pdb
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\obj\Debug\middle_value.exe
+Z:\GoogleDrive\KBU\w12\middle_value\middle_value\obj\Debug\middle_value.pdb
